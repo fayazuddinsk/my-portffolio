@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppin', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1E201E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: #A6B37D;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -50px;
+    padding: 300px 300px;
+    text-decoration: none;
+}
+
+span {
+    color: #FEFAE0;
+    padding: 8px;
+}
